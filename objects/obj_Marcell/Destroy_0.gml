@@ -1,0 +1,1 @@
+show_message("Mi a faszom ez xD!")
