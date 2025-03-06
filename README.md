@@ -1,2 +1,2 @@
-# MyFirstGame
- This is my first game in GameMakerStudios
+# About the project base
+* based on a tutorial by [Wizirdi](https://www.youtube.com/@Wizirdi)
