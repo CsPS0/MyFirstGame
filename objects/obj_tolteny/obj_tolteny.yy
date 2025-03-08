@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Benedek",
+  "%Name":"obj_tolteny",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_tolteny","path":"objects/obj_tolteny/obj_tolteny.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_Benedek","path":"objects/obj_Benedek/obj_Benedek.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Benedek",
+  "name":"obj_tolteny",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Benedek",
-    "path":"sprites/Benedek/Benedek.yy",
+    "name":"Tolteny",
+    "path":"sprites/Tolteny/Tolteny.yy",
   },
   "spriteMaskId":null,
   "visible":true,
