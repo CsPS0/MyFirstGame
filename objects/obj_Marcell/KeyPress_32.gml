@@ -1,1 +1,1 @@
- hitpoints -= irandom_range(15, 25);
+hitpoints -= irandom_range(15, 25);

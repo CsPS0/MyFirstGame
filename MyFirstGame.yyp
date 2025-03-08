@@ -36,8 +36,10 @@
   "resources":[
     {"id":{"name":"ancr_first","path":"animcurves/ancr_first/ancr_first.yy",},},
     {"id":{"name":"talalat","path":"fonts/talalat/talalat.yy",},},
+    {"id":{"name":"obj_Benedek","path":"objects/obj_Benedek/obj_Benedek.yy",},},
     {"id":{"name":"obj_Marcell","path":"objects/obj_Marcell/obj_Marcell.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
+    {"id":{"name":"Benedek","path":"sprites/Benedek/Benedek.yy",},},
     {"id":{"name":"Marcell","path":"sprites/Marcell/Marcell.yy",},},
   ],
   "resourceType":"GMProject",
