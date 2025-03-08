@@ -1,1 +1,0 @@
-show_message("Hello, Világ!");
